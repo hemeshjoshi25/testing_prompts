@@ -1,0 +1,12 @@
+Generation of test cases**:
+
+Prompts
+As a seasoned tester, I want to test the login page of my application, give me at least 10-15 detailed test cases that I can use to verify the components of a login page. Login page has username and password field along with Sign in & register now button. It has a forgot password link and remember me checkbox.
+
+Provide me with Valid Credentials Test Cases, Invalid Credentials Test Cases, Session Management Test Cases, Browser Compatibility Test Cases.
+
+Convert the above test cases in BDD format.
+
+Give me some test data in JSON format containing the details of Stocks of Company
+
+Create a test strategy for the landing page of a E Commerce website consisting of several top tabs which redirect to different functionalities on the platform.
